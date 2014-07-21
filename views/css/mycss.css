@@ -1,0 +1,21 @@
+body { padding-top: 70px; }
+
+body #eq{background-image:url("../images/e1.png");
+/*background-repeat:repeat;*/
+background-size: 100% auto;
+}
+
+body #int{background-image:url("../images/1_b.jpg");
+/*background-repeat:no-repeat;*/
+background-size: 100% auto;
+}
+
+body #ciu{background-image:url("../images/4_b.jpg");
+/*background-repeat:no-repeat;*/
+background-size: 100% auto;
+}
+
+body #cont{background-image:url("../images/5_b.jpg");
+/*background-repeat:repeat;*/
+background-size: 100% auto;
+}
