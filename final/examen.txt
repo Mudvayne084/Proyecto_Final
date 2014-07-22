@@ -1,0 +1,18 @@
+
+examen 3
+mvc
+bootestrap
+librerias cliente( validador, fancybox, data piker)
+lib servidor(adobd)
+layouts / diseño 
+panel y formularios
+
+
+instalar un pluging para desabilitar java escript
+
+formularios de tablas
+
+autor
+revista
+articulo
+status
